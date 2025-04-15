@@ -3,18 +3,6 @@
 > A full-stack food ordering experience, reimagined with the power of the MERN stack.  
 > Delivering meals in code — fast, secure, and mouthwatering. 🤤
 
-## 🚀 Live Preview  
-[🔗 Deployed Link Coming Soon]
-
----
-
-## 📸 Demo Snapshots  
-| Browse Menu | Add to Cart | Admin Dashboard |
-|-------------|-------------|-----------------|
-| ![](demo/menu.gif) | ![](demo/cart.gif) | ![](demo/admin.gif) |
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend**:  
